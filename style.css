@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(215, 255, 242);
-    color:rgb(57, 136, 110)
+    background-color: rgb(213, 216, 248);
+    color:rgb(57, 64, 136)
     
     
 }
@@ -9,6 +9,7 @@ img {
     width: 45%;
     height: auto;
     height: 20%;
+    border: 40% 
 
 }
 
